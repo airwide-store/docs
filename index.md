@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Airwide Commerce Platform
 
 You can use the [editor on GitHub](https://github.com/airwide-store/ecommerce.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
