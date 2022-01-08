@@ -1,8 +1,8 @@
-## Storefront API
+## IHDLife Marketplace Theme Selection
 
-You can use the [editor on GitHub](https://github.com/airwide-store/ecommerce.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Please select Magento 2.4.3.pl theme from choices below which will be used as a baseline for your Storefront UI and Magento Admin UI. The selected theme will be customized to meet your specification - functionality, look and feel (mainly colors, content, and minor structural adjustments).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Should none of the cited themes excites you, please notify us and we will dig deeper.
 
 ### Markdown
 
