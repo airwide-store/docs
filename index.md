@@ -4,10 +4,15 @@ Please select Magento 2.4.3.pl theme from choices below which will be used as a 
 
 Should none of the cited themes excites you, please notify us and we will dig deeper.
 
-### Markdown
+### Claue 2.0
+- Claue Showcase Theme - Home Digital - [https://claue2.arrowtheme.com/ru/](https://claue2.arrowtheme.com/ru/)
+- Other Claue 2.0 Themes - [preview.themeforest.net](https://preview.themeforest.net/item/claue-clean-minimal-magento-2-theme/full_screen_preview/20155150)
+- To buy Claue 2.0 - $129.00 - [Buy](https://themeforest.net/item/claue-clean-minimal-magento-2-theme/20155150)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### Claue 2.0
+- Claue Showcase Theme - Home Digital - [https://claue2.arrowtheme.com/ru/](https://claue2.arrowtheme.com/ru/)
+- Other Claue 2.0 Themes - [preview.themeforest.net](https://preview.themeforest.net/item/claue-clean-minimal-magento-2-theme/full_screen_preview/20155150)
+- To buy Claue 2.0 - $129.00 - [Buy](https://themeforest.net/item/claue-clean-minimal-magento-2-theme/20155150)
 ```markdown
 Syntax highlighted code block
 
